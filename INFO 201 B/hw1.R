@@ -66,7 +66,7 @@ make_introduction <- function(name, age) {
   return(introduction)
 }
 
-name <- "Mellow"
+name <- "Markell"
 age <- 25
 
 result <- make_introduction(name, age)
